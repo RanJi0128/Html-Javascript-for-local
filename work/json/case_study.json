@@ -1,0 +1,1049 @@
+[
+  {
+    "id": 379,
+    "date": "2019-03-19T20:35:02",
+    "date_gmt": "2019-03-19T20:35:02",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=379"
+    },
+    "modified": "2019-03-20T06:33:34",
+    "modified_gmt": "2019-03-20T06:33:34",
+    "slug": "mediatree",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/mediatree\/",
+    "title": {
+      "rendered": "Mediatree"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "1"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "Awwwards, CSSDesignAwards"
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "Introducing Mediatree\u2019s new website. A global leader in financial roadshows, events & investor communication."
+      ],
+      "media_url": [
+        "uploads\/2019\/03\/medianew2.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/03\/medianew2.jpg"
+      ],
+      "explore_more": [
+        "https:\/\/www.media-tree.com\/"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528801:1"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2019\/03\/mediatree-web.mp4"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "Introducing Mediatree\u2019s new website. A global leader in financial roadshows, events & investor communication."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/379"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=379"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "date": "2018-07-10T19:21:27",
+    "date_gmt": "2018-07-10T19:21:27",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=33"
+    },
+    "modified": "2019-03-19T22:34:27",
+    "modified_gmt": "2019-03-19T22:34:27",
+    "slug": "third-eye-films",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/third-eye-films\/",
+    "title": {
+      "rendered": "Third Eye Films"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "2"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "Awwwards, CSSDesignAwards"
+      ],
+      "about_project": [
+        "Third Eye Films specialise in documentaries, news features, high profile interviews & commercials. They bring ideas and projects to life by combining creative vision and storytelling with beautiful cinematic imagery."
+      ],
+      "media_url": [
+        "uploads\/2019\/03\/thirdeye1.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/03\/thirdeye1.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528995:1"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "Third Eye Films specialise in documentaries, news features, high profile interviews and commercials. They bring ideas and projects to life by combining creative vision and storytelling with beautiful cinematic imagery."
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "what_we_do": [
+        "Branding, UI\/UX, Web Development"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/third_eye_films_web.mp4"
+      ],
+      "explore_more": [
+        "https:\/\/www.thirdeye-films.com\/"
+      ],
+      "_wp_old_date": [
+        "2018-05-25",
+        "2018-07-09"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - Third Eye Films"
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/33"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "date": "2018-07-09T18:33:33",
+    "date_gmt": "2018-07-09T18:33:33",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=94"
+    },
+    "modified": "2019-05-21T12:12:40",
+    "modified_gmt": "2019-05-21T12:12:40",
+    "slug": "metatron",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/metatron\/",
+    "title": {
+      "rendered": "Metatron"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "3"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "AWWWARDS - Developer Award"
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "An investment firm dedicated to supporting entrepreneurial teams as early as possible. They look for teams that are building technology-driven companies to fundamentally transform the industry they operate in."
+      ],
+      "media_url": [
+        "uploads\/2019\/05\/metatron2019.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/05\/metatron2019.jpg"
+      ],
+      "explore_more": [
+        "http:\/\/www.metatron.com\/"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/metatron_web.mp4"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1558440760:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "_wp_old_slug": [
+        "94"
+      ],
+      "_wp_old_date": [
+        "2018-07-18",
+        "2018-07-10"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - Metatron"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "An investment firm dedicated to supporting entrepreneurial teams as early as possible. They look for teams that are building technology-driven companies to fundamentally transform the industry they operate in"
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/94"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=94"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "date": "2018-07-08T09:31:31",
+    "date_gmt": "2018-07-08T09:31:31",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=21"
+    },
+    "modified": "2018-08-07T08:34:33",
+    "modified_gmt": "2018-08-07T08:34:33",
+    "slug": "shaan-atari",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/shaan-atari\/",
+    "title": {
+      "rendered": "Shaan Atari"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "4"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "Awwwards, CSSDesignAwards, Mobile Site of the Week, Nominated for E-Commerce Site of the Year"
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, E-Commerce Development"
+      ],
+      "about_project": [
+        "A London based fashion design house, showcasing their unique range of classic signature bracelets, card holders and accessories for a global market, a sense of the past reinvented with the spirit of now."
+      ],
+      "media_url": [
+        "uploads\/2018\/05\/shaan.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2018\/05\/shaan.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528824:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "explore_more": [
+        "https:\/\/www.shaanatari.com\/"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/shaanatari_web.mp4"
+      ],
+      "_wp_old_date": [
+        "2018-05-03"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - Shaan Atari"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "An e-Commerce website for a London based fashion design house, showcasing their range of classic signature accessories, a sense of the past reinvented with the spirit of now."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/21"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "date": "2018-07-07T20:38:53",
+    "date_gmt": "2018-07-07T20:38:53",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=54"
+    },
+    "modified": "2019-03-20T10:22:23",
+    "modified_gmt": "2019-03-20T10:22:23",
+    "slug": "form-fit-out",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/form-fit-out\/",
+    "title": {
+      "rendered": "Form Fit Out"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "5"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        ""
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "An independent commercial interiors business that operates throughout London and the South East. They create inspiring and innovative office fit-outs which improve the performance of their client organisations."
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/03\/form4-2.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528838:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/form_fit_out_web-1.mp4"
+      ],
+      "explore_more": [
+        "https:\/\/www.formfitout.co.uk\/"
+      ],
+      "media_url": [
+        "uploads\/2019\/03\/form4-2.jpg"
+      ],
+      "_wp_old_date": [
+        "2018-05-25"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - Form Office Fit-Out"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "UI \/ UX Design & Web Development London, Form fit-out create inspiring office fit outs which improve the performance of their client organisations. They do this by transforming existing environments through office refurbishment and delivering bespoke fit-outs."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/54"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=54"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "date": "2018-07-06T20:44:54",
+    "date_gmt": "2018-07-06T20:44:54",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=57"
+    },
+    "modified": "2019-03-20T09:37:32",
+    "modified_gmt": "2019-03-20T09:37:32",
+    "slug": "alveena-casa",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/alveena-casa\/",
+    "title": {
+      "rendered": "Alveena Casa"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "6"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        ""
+      ],
+      "what_we_do": [
+        "UI\/UX, E-Commerce Development"
+      ],
+      "about_project": [
+        "A London based interior furniture store that position themselves at the higher end of the market with a focus on quality of craftsmanship, materials and service that the discerning client would expect."
+      ],
+      "media_url": [
+        "uploads\/2019\/03\/alveena2019_1.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/03\/alveena2019_1.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528849:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/alveena_casa_web.mp4"
+      ],
+      "explore_more": [
+        "https:\/\/www.alveenacasa.com\/"
+      ],
+      "_wp_old_date": [
+        "2018-05-25"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - Alveena Casa"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "A London based interior furniture store that position themselves at the higher end of the market with a focus on quality of craftsmanship, materials and service that the discerning client would expect."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/57"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=57"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "date": "2018-07-05T09:31:54",
+    "date_gmt": "2018-07-05T09:31:54",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=22"
+    },
+    "modified": "2019-03-20T14:31:18",
+    "modified_gmt": "2019-03-20T14:31:18",
+    "slug": "people-place",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/people-place\/",
+    "title": {
+      "rendered": "People Place"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "7"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "Awwwards, CSSDesignAwards"
+      ],
+      "what_we_do": [
+        "Branding, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "An independent recruitment agency with their headquarters in Prague, serving candidates and employers globally. They have a different approach to recruitment that cuts through the noise and delivers."
+      ],
+      "media_url": [
+        "uploads\/2019\/03\/people-3.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/03\/people-3.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528854:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "explore_more": [
+        "https:\/\/www.peopleplace.eu\/"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/peopleplace_web.mp4"
+      ],
+      "_wp_old_date": [
+        "2018-05-03"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - People Place"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "An independent recruitment agency with their headquarters in Prague, serving candidates and employers globally. They have a different approach to recruitment that cuts through the noise and delivers."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/22"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "date": "2018-07-04T20:24:56",
+    "date_gmt": "2018-07-04T20:24:56",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=50"
+    },
+    "modified": "2018-08-07T08:35:02",
+    "modified_gmt": "2018-08-07T08:35:02",
+    "slug": "jade-invest",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/jade-invest\/",
+    "title": {
+      "rendered": "Jade Invest"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "8"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        ""
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "Independent private equity investment management firm with offices in London and Shanghai, engaged in control investments in privately owned businesses with significant growth potential in China and beyond."
+      ],
+      "media_url": [
+        "uploads\/2018\/05\/jade.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2018\/05\/jade.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528866:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/jadeinvest_web.mp4"
+      ],
+      "explore_more": [
+        "https:\/\/www.jadeinvest.com\/"
+      ],
+      "_wp_old_date": [
+        "2018-05-25"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Jade - UI \/ UX Design & Web Development"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "UI \/ UX Design & Web Development London, Jade is a private equity investment management firm."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/50"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "date": "2018-07-03T12:42:26",
+    "date_gmt": "2018-07-03T12:42:26",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=69"
+    },
+    "modified": "2018-08-07T08:35:08",
+    "modified_gmt": "2018-08-07T08:35:08",
+    "slug": "eh-partners",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/eh-partners\/",
+    "title": {
+      "rendered": "EH Partners"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "9"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "CSSDesignAwards"
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "A boutique executive search firm focussed on the alternative assets space and investment banking. The firm was established with the objective of delivering an exceptional service to both clients and candidates."
+      ],
+      "primary_media_url": [
+        "uploads\/2018\/07\/ehpartners.jpg"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528878:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "media_url": [
+        "uploads\/2018\/07\/ehpartners.jpg"
+      ],
+      "explore_more": [
+        "http:\/\/www.ehpartners.co.uk\/"
+      ],
+      "_wp_old_date": [
+        "2018-05-28",
+        "2018-05-24"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/eh_partners_web.mp4"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - EH Partners"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "A boutique executive search firm focussed on the alternative assets space and investment banking. The firm was established with the objective of delivering an exceptional service to both clients and candidates."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/69"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=69"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "date": "2018-07-02T21:39:32",
+    "date_gmt": "2018-07-02T21:39:32",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?post_type=case_study&#038;p=111"
+    },
+    "modified": "2019-03-20T14:57:39",
+    "modified_gmt": "2019-03-20T14:57:39",
+    "slug": "james-ross",
+    "status": "publish",
+    "type": "case_study",
+    "link": "https:\/\/www.artistsweb.com\/case-study\/james-ross\/",
+    "title": {
+      "rendered": "James Ross"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "template": "",
+    "meta": {
+      "display_index": [
+        "10"
+      ],
+      "client_name": [
+        ""
+      ],
+      "awards": [
+        "AWWWARDS, CSSDesignAwards"
+      ],
+      "what_we_do": [
+        "Art Direction, UI\/UX, Web Development"
+      ],
+      "about_project": [
+        "James Ross Consulting is the world\u2019s largest independent, specialist management consulting company with offices in the UK, USA and Australia. Their clients include many of today's leading global companies."
+      ],
+      "media_url": [
+        "uploads\/2019\/03\/jrc.jpg"
+      ],
+      "primary_media_url": [
+        "uploads\/2019\/03\/jrc.jpg"
+      ],
+      "explore_more": [
+        "https:\/\/www.jamesrossconsulting.co.uk\/"
+      ],
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1555528892:1"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "video_url": [
+        "https:\/\/www.artistsweb.com\/wp-content\/uploads\/2018\/07\/jamesross_web.mp4"
+      ],
+      "_wp_old_date": [
+        "2018-07-18"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb | Work - James Ross Consulting"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "James Ross Consulting is the world\u2019s largest independent, specialist management consulting company with offices in the UK, USA and Australia. Their clients include many of todays leading global companies."
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study\/111"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/case_study"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/case_study"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

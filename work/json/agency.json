@@ -1,0 +1,177 @@
+[
+  {
+    "id": 13,
+    "date": "2018-05-03T09:27:35",
+    "date_gmt": "2018-05-03T09:27:35",
+    "guid": {
+      "rendered": "https:\/\/www.artistsweb.com\/?page_id=13"
+    },
+    "modified": "2019-04-09T09:11:00",
+    "modified_gmt": "2019-04-09T09:11:00",
+    "slug": "agency",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/www.artistsweb.com\/agency\/",
+    "title": {
+      "rendered": "Agency"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "agency.php",
+    "meta": {
+      "_edit_last": [
+        "1"
+      ],
+      "_edit_lock": [
+        "1554801024:1"
+      ],
+      "_wp_page_template": [
+        "agency.php"
+      ],
+      "_yoast_wpseo_focuskw_text_input": [
+        "Agency"
+      ],
+      "_yoast_wpseo_focuskw": [
+        "Agency"
+      ],
+      "_yoast_wpseo_metadesc": [
+        "We\u2019re an independent digital agency with a team of designers & creative developers who relish in crafting engaging digital experiences."
+      ],
+      "_yoast_wpseo_linkdex": [
+        "47"
+      ],
+      "_yoast_wpseo_content_score": [
+        "30"
+      ],
+      "_yoast_wpseo_title": [
+        "Artistsweb - A Creative Digital Agency with a Global Presence in London, Prague and New York"
+      ],
+      "agency_gallery": [
+        "uploads\/2018\/08\/Artistsweb-Awwwards-FWA-CssDesignAwards.jpg",
+        "uploads\/2018\/07\/02_Artistsweb.jpg",
+        "uploads\/2018\/07\/03_Artistsweb.jpg",
+        "uploads\/2018\/07\/04_Artistsweb.jpg",
+        "uploads\/2018\/07\/05_Artistsweb.jpg"
+      ],
+      "agency_field_main_message": [
+        "<div class=\"header--main--message\">We\u2019re an award-winning digital agency with a team of designers &amp; creative developers who relish in crafting engaging experiences<\/div>"
+      ],
+      "agency_field_text_title": [
+        "<h2 class=\"hoverJump\"><span class=\"split-it-all\">Your digital<\/span>\r\n<span class=\"split-it-all gray--part\">partner<\/span><\/h2>"
+      ],
+      "agency_field_text_content": [
+        "<p>Our multidisciplinary team is led by our creative director who is part of the AWWWARDS Jury and encourages every team member to discover, define and create innovative ways to help connect brands with people.<\/p>\r\n\r\n<p>\r\nWe're collaborators by nature and we work closely with our international clients to deliver cutting-edge digital experiences, we believe in working \u2018with\u2019 you rather than \u2018for\u2019 you. Nothing holds us back to venture and experiment where technology hasn\u2019t been yet and making exciting, immersive work, is what drives our team daily.\r\n<\/p>\r\n\r\n<p>\r\nWe have a wealth of experience providing digital expertise and we do this by revealing insights that will help support and grow your business. We love exploring, brainstorming and prototyping allowing us to choose the best use of innovative technologies that are right for your digital project.\r\n<\/p>"
+      ],
+      "agency_field_text_lists": [
+        "<div class=\"col-12 col-md-4 col\">\r\n<h4>Conception<\/h4>\r\n<ul>\r\n \t<li>Digital Strategy<\/li>\r\n \t<li>Ideation &amp; Prototyping<\/li>\r\n \t<li>Brand &amp; Product Strategy<\/li>\r\n \t<li>Technical Direction<\/li>\r\n \t<li>Project Management<\/li>\r\n<\/ul>\r\n<\/div>\r\n<div class=\"col-12 col-md-4 col\">\r\n<h4>Design<\/h4>\r\n<ul>\r\n \t<li>Creative Art Direction<\/li>\r\n \t<li>Interactive Design<\/li>\r\n \t<li>UI\/UX Web Design<\/li>\r\n \t<li>Motion Design<\/li>\r\n \t<li>2D\/3D Design<\/li>\r\n<\/ul>\r\n<\/div>\r\n<div class=\"col-12 col-md-4 col\">\r\n<h4>Development<\/h4>\r\n<ul>\r\n \t<li>Creative Development<\/li>\r\n \t<li>Front-end Development<\/li>\r\n \t<li>Back-end Development<\/li>\r\n \t<li>Web App Development<\/li>\r\n \t<li>Mobile Development<\/li>\r\n<\/ul>\r\n<\/div>"
+      ],
+      "agency_field_third_title": [
+        "<h2 class=\"hoverJump\"><span class=\"split-it-all\">SOME BRANDS WE'VE WORKED WITH<\/span><\/h2>\r\nJust a selection of a few global companies that we've done some great work with"
+      ],
+      "agency_field_third_logos": [
+        "<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/costa-img.svg\" alt=\"Costa\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/bbc.svg\" alt=\"BBC\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/itv.svg\" alt=\"ITV\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/deezer.svg\" alt=\"Deezer\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/carrefour.svg\" alt=\"Carrefour\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/jbcapital.svg\" alt=\"JB Capital\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/mediatree.svg\" alt=\"Mediatree\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/metatron.svg\" alt=\"Metatron\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/superior.svg\" alt=\"Superior\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/credo.svg\" alt=\"Credo\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/jlc.svg\" alt=\"Jaeger LeCoultre\"\/><\/div>\r\n<\/div>\r\n<!--END-->\r\n\r\n<!--START-->\r\n<div class=\"col col-md-6 col-lg-4\">\r\n<div class=\"brand--logo\"><img src=\"uploads\/2018\/07\/richemont.svg\" alt=\"Richemont\"\/><\/div>\r\n<\/div>\r\n<!--END-->"
+      ],
+      "agency_field_getin_title": [
+        "<div class=\"pre--title\">\r\n\r\nARE YOU READY FOR A CHALLENGE?\r\n\r\n<\/div>\r\n<h2 class=\"hoverJump\"><span class=\"split-it-all\">JOIN OUR TEAM<\/span><\/h2>"
+      ],
+      "agency_field_getin_messages": [
+        "<p class=\"copyTextIN\">Get in Touch<\/p>\r\n<p class=\"copyTextOUT\">Email has been copied!<\/p>"
+      ],
+      "inline_featured_image": [
+        "0"
+      ],
+      "firstSection_titleOne": [
+        ""
+      ],
+      "firstSection_titleTwo": [
+        ""
+      ],
+      "firstSection_content_text": [
+        ""
+      ],
+      "logoSection_title": [
+        ""
+      ],
+      "logoSection_subtitle": [
+        ""
+      ],
+      "joinSection_title": [
+        ""
+      ],
+      "joinSection_subtitle": [
+        ""
+      ],
+      "joinSection_messageHover": [
+        ""
+      ],
+      "joinSection_messageClick": [
+        ""
+      ]
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/pages\/13"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/users\/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/comments?post=13"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/pages\/13\/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 14,
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/pages\/13\/revisions\/14"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https:\/\/www.artistsweb.com\/wp-json\/wp\/v2\/media?parent=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
